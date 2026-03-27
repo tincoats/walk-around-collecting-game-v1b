@@ -19,7 +19,7 @@ A 3D exploration and collection game built with **Babylon.js**. Navigate a 3D wo
 2. Babylon.js must be installed in the project folder.
 3. Download all the JavaScript files and the index.html file from GitHub and place them in the root of the project folder.
 4. Download the following model files from Sketchfab.com and place them in a folder called 'assets' - majd_the_boy.glb, stylized_coin.glb, low_poly_rocks.glb, pine_tree_low_poly.glb
-5. There is a lot of information on how to use node.js, Vite and Babylon.js on the Internet and AI to help you. Run the game locally with the command 'npm run dev' which runs Vite in development mode, building the code on the fly, enter 'o' to open in a browser.
+5. There is a lot of information on how to use node.js, Vite and Babylon.js on the Internet and AI can help you. Run the game locally with the command 'npm run dev' which runs Vite in development mode, building the code on the fly. Enter 'o' to open the game in a browser.
 6. Good Luck!
 
 ## 🛡️ License & Disclaimer
