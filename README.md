@@ -1,10 +1,10 @@
 # Walk Around Collecting 3D Game🎮
 
-A 3D exploration and collection game built with **Babylon.js**. Navigate a 3D world, explore the environment, and collect coins to complete the level.
+A 3D exploration and collection game built with **Babylon.js**. Navigate a 3D world, explore the environment, and collect coins to complete a level.
 
 ## 🚀 Features
 *   **3D Exploration:** camera controls, character movement and animation.
-*   **Collection System:** Coin collection system is separate from the level creation code.
+*   **Collection System:** Coin collection system is separate from the level creation system.
 *   **Modular Architecture:** Clean, decoupled JavaScript modules to manage complexity, improve reusability, maintainability, scalability and more.
 *   **Responsive Rendering:** Fully responsive canvas that adapts to window resizing.
 
@@ -15,7 +15,7 @@ A 3D exploration and collection game built with **Babylon.js**. Navigate a 3D wo
 
 ## 📦 Installation & Setup (How To Run The Code)
 
-1. The code uses modules so it has to be 'built' before it will run in most browsers. A way to do this is with node.js and Vite on a Linux system (a windows system running wsl works fine). Use node.js create a project folder/directory and install Vite in it.
+1. The code uses modules so it has to be 'built' before it will run in most browsers. A way to do this is with node.js and Vite on a Linux system (a Windows system running wsl works fine). Use node.js create a project folder/directory and install Vite in it.
 2. Babylon.js must be installed in the project folder.
 3. Download all the JavaScript files and the index.html file from GitHub and place them in the root of the project folder.
 4. Download the following model files from Sketchfab.com and place them in a folder called 'assets' - majd_the_boy.glb, stylized_coin.glb, low_poly_rocks.glb, pine_tree_low_poly.glb
