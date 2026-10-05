@@ -2,6 +2,10 @@
 
 A 3D exploration and collection game built with **Babylon.js**. Navigate a 3D world, explore the environment, and collect coins to complete a level.
 
+📌 Note: This is the archived Version 1 codebase
+🚀 Active Development: A major redevelopment is underway! Check out the new version here:
+https://github.com/tincoats/walk-around-collecting-game-v2
+
 ## 🚀 Features
 *   **3D Exploration:** camera controls, character movement and animation.
 *   **Collection System:** Coin collection system is separate from the level creation system.
